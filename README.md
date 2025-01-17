@@ -9,7 +9,13 @@
 
 ## 화면 구성 및 기능
 <details>
-  <summary> **스플래시 화면** </summary>
-<img width="274" alt="image" src="https://github.com/user-attachments/assets/4812a61a-5a9c-46a3-81e0-6abca30c4d40" />
+  <summary><b>스플래시 화면</b></summary>  
+  <div markdown="1">
+    <ul>
+      <li>로그인창으로 넘어가기 전 잠깐 나오는 시작화면</li>    
+    </ul>
+  </div>
+  <p align="center">
+<img width="274" alt="image" src="https://github.com/user-attachments/assets/4812a61a-5a9c-46a3-81e0-6abca30c4d40" /></p>
 </details>
 
