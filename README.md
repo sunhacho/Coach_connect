@@ -115,3 +115,6 @@
     </ul>
   </div>
   </details>
+
+## 애플리케이션 구현영상 (유튜브)
+[Connect Coach 애플리케이션](https://m.youtube.com/watch?v=6cWg86FURpk)
