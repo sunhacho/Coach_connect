@@ -28,6 +28,8 @@
   </details>
 <details>
   <summary><b>회원가입 화면</b></summary>
+  <img width="285" alt="image" src="https://github.com/user-attachments/assets/c39dda86-f00a-40aa-ba2b-85bb1b6344d6" />
+  <br/> 
     <div markdown="1">
     <ul>
       <li>이메일과 비밀번호를 입력 후  NEXT 버튼 누르면 “회원가입이 완료되었습니다” 라는 문구 3.5초 표시 후 로그인으로 돌아감</li>   
@@ -36,6 +38,8 @@
   </details>
   <details>
   <summary><b>하단바 기능</b></summary>
+    <img width="516" alt="image" src="https://github.com/user-attachments/assets/e4c6e994-73b9-4125-8b7f-2bc4123db732" />
+
     모든 화면에 동일하게 적용
     <div markdown="1">
     <ul>
@@ -49,6 +53,8 @@
 
   <details>
   <summary><b>메안 화면 (예약현황창)</b></summary>
+    <img width="719" alt="image" src="https://github.com/user-attachments/assets/cf00ed83-a558-4f97-a849-70ea9c0d9127" />
+
     <div markdown="1">
     <ul>
       <li>로그인 진행 후 가장 처음 뜨는 화면</li>
@@ -59,6 +65,8 @@
 
   <details>
   <summary><b>프로필 설정 화면</b></summary>
+    <img width="254" alt="image" src="https://github.com/user-attachments/assets/c9ae2051-e9a9-4dc8-894e-2d63b3cd49bc" />
+
     하단바의 사람 모양 버튼 클릭
     <div markdown="1">
     <ul>
@@ -71,6 +79,7 @@
 
   <details>
   <summary><b>목표 설정 화면</b></summary>
+    
 하단바의 웃는 모양 버튼 클릭
     <div markdown="1">
     <ul>
