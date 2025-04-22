@@ -65,9 +65,9 @@
 
   <details>
   <summary><b>프로필 설정 화면</b></summary>
-    <img width="254" alt="image" src="https://github.com/user-attachments/assets/c9ae2051-e9a9-4dc8-894e-2d63b3cd49bc" />
-  <br/> 
     하단바의 사람 모양 버튼 클릭
+        <img width="254" alt="image" src="https://github.com/user-attachments/assets/c9ae2051-e9a9-4dc8-894e-2d63b3cd49bc" />
+  <br/> 
     <div markdown="1">
     <ul>
       <li>이름/ 성별 / 닉네임 / 생일 / 키 / 현재 체중 / 목표체중을 입력하고 확인 버튼을 누르면 저장됨</li>
@@ -81,6 +81,8 @@
   <summary><b>목표 설정 화면</b></summary>
     
 하단바의 웃는 모양 버튼 클릭
+<img width="266" alt="image" src="https://github.com/user-attachments/assets/7ccc94e8-03a6-47d8-8248-8da56e1a791c" />
+  <br/> 
     <div markdown="1">
     <ul>
       <li>체크박스 형태로 진행</li>
@@ -95,6 +97,8 @@
   <details>
   <summary><b>트레이너 리스트 화면</b></summary>
 하단바의 돋보기 모양 버튼 클릭
+    <img width="280" alt="image" src="https://github.com/user-attachments/assets/b5168a90-b4ef-444c-93e5-58c17c253674" />
+  <br/> 
     <div markdown="1">
     <ul>
       <li>내부 데이터베이스를 사용하여 트레이너 리스트를 만듦</li>
@@ -106,6 +110,8 @@
 
   <details>
   <summary><b>트레이너 info 화면</b></summary>
+    <img width="281" alt="image" src="https://github.com/user-attachments/assets/923e130d-2be7-4035-bb9f-fdcfbcee142b" />
+  <br/> 
     <div markdown="1">
     <ul>
       <li>학력과 자격이 포함된 세부사항이 들어가있음</li>
@@ -116,6 +122,8 @@
 
   <details>
   <summary><b>시간 예약 화면</b></summary>
+    <img width="271" alt="image" src="https://github.com/user-attachments/assets/07d6f2f3-d5c1-4174-a576-68663d1e97e6" />
+  <br/> 
     <div markdown="1">
     <ul>
       <li>날짜는 캘린더 형식으로 선택 가능</li>
