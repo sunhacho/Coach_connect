@@ -65,9 +65,9 @@
 
   <details>
   <summary><b>프로필 설정 화면</b></summary>
-    하단바의 사람 모양 버튼 클릭
-        <img width="254" alt="image" src="https://github.com/user-attachments/assets/c9ae2051-e9a9-4dc8-894e-2d63b3cd49bc" />
+            <img width="254" alt="image" src="https://github.com/user-attachments/assets/c9ae2051-e9a9-4dc8-894e-2d63b3cd49bc" />
   <br/> 
+    하단바의 사람 모양 버튼 클릭
     <div markdown="1">
     <ul>
       <li>이름/ 성별 / 닉네임 / 생일 / 키 / 현재 체중 / 목표체중을 입력하고 확인 버튼을 누르면 저장됨</li>
@@ -96,9 +96,9 @@
 
   <details>
   <summary><b>트레이너 리스트 화면</b></summary>
-하단바의 돋보기 모양 버튼 클릭
-    <img width="280" alt="image" src="https://github.com/user-attachments/assets/b5168a90-b4ef-444c-93e5-58c17c253674" />
+        <img width="280" alt="image" src="https://github.com/user-attachments/assets/b5168a90-b4ef-444c-93e5-58c17c253674" />
   <br/> 
+하단바의 돋보기 모양 버튼 클릭
     <div markdown="1">
     <ul>
       <li>내부 데이터베이스를 사용하여 트레이너 리스트를 만듦</li>
