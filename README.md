@@ -68,7 +68,7 @@
             <img width="254" alt="image" src="https://github.com/user-attachments/assets/c9ae2051-e9a9-4dc8-894e-2d63b3cd49bc" />
   <br/> 
     
-    #### 하단바의 사람 모양 버튼 클릭
+  하단바의 사람 모양 버튼 클릭
     <div markdown="1">
     <ul>
       <li>이름/ 성별 / 닉네임 / 생일 / 키 / 현재 체중 / 목표체중을 입력하고 확인 버튼을 누르면 저장됨</li>
@@ -83,7 +83,7 @@
   <img width="266" alt="image" src="https://github.com/user-attachments/assets/7ccc94e8-03a6-47d8-8248-8da56e1a791c" />
   <br/> 
     
-#### 하단바의 웃는 모양 버튼 클릭
+*하단바의 웃는 모양 버튼 클릭*
     <div markdown="1">
     <ul>
       <li>체크박스 형태로 진행</li>
