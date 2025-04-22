@@ -40,7 +40,7 @@
   <summary><b>하단바 기능</b></summary>
     <img width="516" alt="image" src="https://github.com/user-attachments/assets/e4c6e994-73b9-4125-8b7f-2bc4123db732" />
   <br/> 
-    모든 화면에 동일하게 적용
+    **모든 화면에 동일하게 적용**
     <div markdown="1">
     <ul>
       <li>집 모양 버튼 : 메인 화면</li>
@@ -68,7 +68,7 @@
             <img width="254" alt="image" src="https://github.com/user-attachments/assets/c9ae2051-e9a9-4dc8-894e-2d63b3cd49bc" />
   <br/> 
     
-  하단바의 사람 모양 버튼 클릭
+  **하단바의 사람 모양 버튼 클릭**
     <div markdown="1">
     <ul>
       <li>이름/ 성별 / 닉네임 / 생일 / 키 / 현재 체중 / 목표체중을 입력하고 확인 버튼을 누르면 저장됨</li>
@@ -83,7 +83,7 @@
   <img width="266" alt="image" src="https://github.com/user-attachments/assets/7ccc94e8-03a6-47d8-8248-8da56e1a791c" />
   <br/> 
     
-*하단바의 웃는 모양 버튼 클릭*
+**하단바의 웃는 모양 버튼 클릭**
     <div markdown="1">
     <ul>
       <li>체크박스 형태로 진행</li>
@@ -99,7 +99,8 @@
   <summary><b>트레이너 리스트 화면</b></summary>
         <img width="280" alt="image" src="https://github.com/user-attachments/assets/b5168a90-b4ef-444c-93e5-58c17c253674" />
   <br/> 
-하단바의 돋보기 모양 버튼 클릭
+    
+**하단바의 돋보기 모양 버튼 클릭**
     <div markdown="1">
     <ul>
       <li>내부 데이터베이스를 사용하여 트레이너 리스트를 만듦</li>
